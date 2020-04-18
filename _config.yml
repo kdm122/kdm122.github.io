@@ -1,11 +1,11 @@
 # Site settings
-author: Kyle McLean
-title: 
+author: Kyle D
+title: The Local Gazette
 header-img: img/home-bg.png
 email: kyledmclean@gmail.com
-copyright_name: Kyle McLean
+copyright_name: Kyle D
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Notes from the Mayor of Kyleville's Desk
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kdm122
